@@ -1,5 +1,9 @@
-.jumbo {
-    margin-top: 100px;
+.bk-color {
+    background-color: silver;
+}
+
+.intro {
+    margin-top: 140px;
 }
 
 .title {
@@ -10,7 +14,15 @@
     font-family: 'Libre Baskerville', serif;
 }
 
-.backgrounds {
-    background-color: gainsboro;
+.space {
+    margin: 25px;
 }
 
+.customer {
+    width: 100px;
+    height: 100px;
+}
+
+.jumbo-img {
+    background-image: url("assets/images/flag.jpg");
+}
