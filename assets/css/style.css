@@ -3,7 +3,7 @@ body {
 }
 
 .intro {
-    margin-top: 140px;
+    background-color: #9CC69B;
 }
 
 .title {
@@ -25,4 +25,8 @@ body {
 
 .jumbo-img {
     background-image: url("assets/images/flag.jpg");
+}
+
+.menu-options {
+    list-style-type: none;
 }
